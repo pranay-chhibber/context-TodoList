@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Creating basic layout</h1>
+      <h1 className='bg-black text-white'  >Creating basic layout</h1>
     </>
   )
 }
